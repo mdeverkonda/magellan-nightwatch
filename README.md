@@ -9,7 +9,7 @@ In **magellan-nightwatch@4.0.0** we've removed Chromedriver, Phantomjs and Selen
 1. Copy/cat following code to `package.json` of your test repo.
 
   ```
-  "devDependencies": {
+  "dependencies": {
     "selenium-server": "2.49.1",
     "chromedriver": "2.16.0",
     "phantomjs": "^1.9.19"
