@@ -59,7 +59,7 @@
   "license": "MIT",
   "dependencies": {
     "cli-color": "0.3.2",
-    "lodash": "^3.10.0",
+    "lodash": "^4.6.1",
     "json-stringify-safe": "5.0.0",
     "jsonfile": "2.0.0",
     "q": "1.0.1",
