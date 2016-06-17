@@ -2,6 +2,13 @@
 
 The [NightwatchJS](http://nightwatchjs.org/) adapter for [Magellan](https://github.com/TestArmada/magellan)
 
+## Deprecation Notice
+
+This plugin is deprecated.  Please instead use:
+
+* [Nightwatch Plugin](https://github.com/TestArmada/magellan-nightwatch-plugin) for integrating the Magellan test runner with Nightwatch child processes
+* [Nightwatch Extra](https://github.com/TestArmada/nightwatch-extra) for enhanced commands, and SauceLabs integrations
+
 ## IMPORTANT UPDATE NOTICE
 
 In **magellan-nightwatch@4.0.0** we've removed Chromedriver, Phantomjs and Selenium-server as these are not required while running your test on Saucelabs. However, they are still necessary if you want to run test locally. To use them, you will have to 
